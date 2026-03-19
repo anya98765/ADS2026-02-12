@@ -28,7 +28,7 @@ public class FiboC {
         }
 
         // Найти период Пизано для модуля m
-        int period = getPisanoPeriod(m);
+        int period = getPisanoPeriod(m);                       //F(n) mod m = F(n mod period) mod m
 
         // Использовать только остаток от деления n на период
         n = n % period;

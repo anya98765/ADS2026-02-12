@@ -2,15 +2,14 @@ package by.it.group551003.kalach.lesson02;
 /*
 Даны
 1) объем рюкзака 4
-2) число возможных предметов 60
+2) число возможных предметов( 60
 3) сам набор предметов
     100 50
     120 30
     100 50
-Все это указано в файле (by/it/a_khmelev/lesson02/greedyKnapsack.txt)
+Все это указано в файле (by/it/a_khmelev/lesson02/greedyKnapsack.txt
 
-Необходимо собрать наиболее дорогой вариант рюкзака для этого объема
- */
+Необходимо собрать наиболее дорогой вариант рюкзака для этого объема */
 
 import java.io.FileNotFoundException;
 import java.io.InputStream;

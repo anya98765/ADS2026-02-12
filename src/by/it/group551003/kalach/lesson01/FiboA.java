@@ -7,7 +7,7 @@ import java.math.BigInteger;
  */
 
 public class FiboA {
-    /* bhibi */
+
 
     private long startTime = System.currentTimeMillis();
 
